@@ -1,0 +1,1 @@
+Attempt to organize replacement service for non-consecutive stations "Station A" and "Station C" on line "L1". The operation should not be executed, and no replacement line should be created.

@@ -1,0 +1,1 @@
+Create a replacement service for stations "D" and "E" on line "L1". Verify that a new replacement line "PL1" is created to connect these two stations, and the original line "L1" retains "Station D" as the new terminal station.

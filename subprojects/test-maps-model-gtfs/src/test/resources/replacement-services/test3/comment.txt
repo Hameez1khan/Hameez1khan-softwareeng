@@ -1,0 +1,1 @@
+Close the terminal station "Station C" on line "L1" and verify that "Station B" becomes the new terminal station.

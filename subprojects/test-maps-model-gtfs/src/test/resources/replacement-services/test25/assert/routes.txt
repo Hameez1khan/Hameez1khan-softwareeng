@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_type,route_color
+R2,L2,Line 1,1,FF0000
+R3,L1-1,Line 1,1,FF0000
+R4,L1-2,Line 1,1,FF0000
+P1,P-1,Replacement Line 1,1,009EE3

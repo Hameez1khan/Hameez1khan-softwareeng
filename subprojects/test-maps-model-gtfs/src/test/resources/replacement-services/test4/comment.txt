@@ -1,0 +1,1 @@
+Close the shared station "Station B" from multiple lines "L1" and "L2". Verify that "Station B" is removed from both lines and that the adjacent stations are linked correctly.

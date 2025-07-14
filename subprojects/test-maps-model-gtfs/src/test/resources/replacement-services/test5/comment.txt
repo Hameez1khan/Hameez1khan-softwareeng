@@ -1,0 +1,1 @@
+Introduce alternative replacement service between "Station A" and "Station C". Verify that a new replacement line "P-1" is created and connects these two stops.

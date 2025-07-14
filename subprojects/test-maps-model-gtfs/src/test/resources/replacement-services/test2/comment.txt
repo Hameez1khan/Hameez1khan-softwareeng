@@ -1,0 +1,1 @@
+Close an intermediate station "Station B" on line "L1" and verify that "Station A" is directly linked to "Station C" after the closure.

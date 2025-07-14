@@ -1,0 +1,1 @@
+Attempt to organize replacement service for all stations on line "L1". The operation should not be executed as it is not allowed to replace an entire line.
