@@ -26,7 +26,7 @@ This repository is a fork of the original
 * [Research](#research)
 * [Other Ideas](#other-ideas)
     * [Nick-name map for Berlin](#nick-name-map-for-berlin)
-*[Contributions by @Hameez1khan](#-contributions-by-hameez1khan)
+* [Contributions by @Hameez1khan](#-contributions-by-hameez1khan)
 
 ## Requirements
 
