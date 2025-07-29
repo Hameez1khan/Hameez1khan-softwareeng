@@ -26,7 +26,7 @@ This repository is a fork of the original
 * [Research](#research)
 * [Other Ideas](#other-ideas)
     * [Nick-name map for Berlin](#nick-name-map-for-berlin)
-* [Contributions by @Hameez1khan](#-contributions-by-hameez1khan)
+* [Contributions by @Hameez1khan](#contributions-by-hameez1khan)
 
 ## Requirements
 
@@ -288,7 +288,7 @@ Possible resources:
 * <https://de.wikipedia.org/wiki/Berolinismus>
 * <https://github.com/derhuerst/vbb-common-places/blob/master/stations.json>
 
-## 🚀 Contributions by @Hameez1khan
+## Contributions by @Hameez1khan
 
 This fork of the OpenMetroMaps project includes a substantial feature extension designed to simulate real-world public transportation disruptions and replacement services. All contributions align with enhancing the practical utility and academic exploration of the OpenMetroMaps platform.
 
@@ -312,7 +312,7 @@ This fork of the OpenMetroMaps project includes a substantial feature extension 
 - Implemented `createAlternativeService(ModelData, Station, Station)` in `ReplacementServices.java`
 - Supports simplified replacement services (e.g., buses, boats) between two selected stations.
 
-### 🧪 Unit Testing
+### Unit Testing
 - Developed a complete test suite in `ReplacementServicesUnitTests.java` using JUnit.
 - Achieved extensive **statement** and **decision coverage** across all features.
 - Validated all major scenarios including:
@@ -320,7 +320,7 @@ This fork of the OpenMetroMaps project includes a substantial feature extension 
   - Edge cases (non-consecutive stations, invalid inputs, terminal boundary conditions)
   - Multi-line interactions (simultaneous replacement on intersecting lines)
 
-### 📊 Examples Covered in Tests
+### Examples Covered in Tests
 - Truncating and splitting lines (`M3`, `M3-1`, `M3-2`) based on boundary logic
 - Replacement line creation with adjusted terminals and non-circularity
 - Reversed station order handling and transactional safeguards
