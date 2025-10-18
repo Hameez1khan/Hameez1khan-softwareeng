@@ -1,7 +1,7 @@
 # OpenMetroMaps
 
 This repository is a copy of the original
-[OpenMetroMaps]([https://www.openmetromaps.org](https://github.com/ftsrg-softeng/hw-2024-Hameez1khan-en)) project (with additional features implemented) used for educational purposes. The project was intentionally simplified by removing all web related subprojects.
+[OpenMetroMaps]([https://www.openmetromaps.org](https://github.com/ftsrg-softeng/hw-2024-Hameez1khan-en]) project (with additional features implemented) used for educational purposes. The project was intentionally simplified by removing all web related subprojects.
 
 **Table of Contents**
 * [Requirements](#requirements)
